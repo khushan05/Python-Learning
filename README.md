@@ -6,7 +6,7 @@ I'm learning Python and building in public by sharing my daily progress.
 
 ## 🧠 What This Repo Contains
 
-This repository includes my daily Python practice and small projects.
+This repository includes my Python practice and small projects.
 
 Each file represents what I learned and built on that day.
 
